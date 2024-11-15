@@ -41,7 +41,7 @@ public class Car {//This is the object
 
     public static void main(String[] args) {//This is the main method
         Car myCar = new Car("Mercedes", "E63s", 2024, "Sedan", "Silver",
-         2.0, "WDDZF8KB4LA730839" );
+         4.0, "WDDZF8KB4LA730839" );
          
         myCar.displayInfo();
         myCar.accelerate();
